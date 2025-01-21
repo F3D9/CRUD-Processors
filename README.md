@@ -1,10 +1,13 @@
 # CRUD-Processors
 
-A simple project about processors models. 
+## A simple project on processor models. 
 
-It's a terminal app about a simple CRUD with the funtions Create,Read,Update and Delete. 
+It is a terminal application on a simple CRUD with the functions Create, Read, Update and Delete. 
 
-Created an object (the processors) and you can do any funtion what is in the app. 
+You create an object (the processors) and you can do any function that is in the application. 
+
+I used only the sqlite3 library for the database that appears in the program. 
+
 
 
 
